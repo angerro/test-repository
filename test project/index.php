@@ -15,5 +15,7 @@ and open the template in the editor.
         ?>
         new
         he-he-he
+        
+        lol
     </body>
 </html>
